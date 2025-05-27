@@ -38,5 +38,7 @@
 <blockquote>
   <p><em>"Thinking on solutions, not on technology."</em></p>
 </blockquote>
+<h3>Contact me 📫</h3>
+<p>📧 <a href="mailto:emilianofriasfelix@outlook.com">emilianofriasfelix@outlook.com</a></p>
 
 
